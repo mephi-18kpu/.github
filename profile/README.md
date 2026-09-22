@@ -4,20 +4,18 @@
 
 ## Начало работы
 
-| [🎓 Студентам →](https://github.com/mephi-18kpu/common-manuals/tree/master/students) | [📚 Преподавателям →](https://github.com/mephi-18kpu/common-manuals/tree/master/teachers) |
-| --- | --- |
-| Работа с репозиторием курса, правила и помощь при ошибках. | Подготовка, ведение и завершение курса. |
+[![Студентам — работа с репозиторием курса, правила и помощь при ошибках](assets/students-card.svg)](https://github.com/mephi-18kpu/common-manuals/tree/master/students)
+
+[![Преподавателям — подготовка, ведение и завершение курса](assets/teachers-card.svg)](https://github.com/mephi-18kpu/common-manuals/tree/master/teachers)
 
 В репозитории конкретного курса сначала прочитайте его `README.md`: дополнительные указания преподавателя имеют приоритет. Для создания репозитория или изменения административных настроек обратитесь к владельцам организации.
 
-### AI-агентам
+## Организация в цифрах
 
-Перед работой необходимо прочитать [`common-manuals/AGENTS.md`](https://github.com/mephi-18kpu/common-manuals/blob/master/AGENTS.md), а затем локальные инструкции целевого репозитория.
-
-## Основные репозитории
-
-- [`common-manuals`](https://github.com/mephi-18kpu/common-manuals) — общие правила работы для студентов, преподавателей и AI-агентов.
-- [`course-template`](https://github.com/mephi-18kpu/course-template) — шаблон учебного репозитория курса.
+<!-- org-metrics:start -->
+- 👥 **Количество участников:** 29
+- 📝 **Коммитов в публичных репозиториях за последние 30 дней:** 1098
+<!-- org-metrics:end -->
 
 ## Основные принципы
 
